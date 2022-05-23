@@ -1,0 +1,9 @@
+[['pawn', 'f7', 1], ['pawn', 'g8', 1], ['pawn', 'd8', 1], ['pawn', 'e8', 1], 
+['pawn', 'a2', 0], ['bishop', 'b8', 1], ['bishop', 'c8', 1], ['bishop', 'a1', 0],
+ ['rook', 'h7', 1], ['pawn', 'b1', 0], ['pawn', 'c1', 0], ['rook', 'd1', 0], 
+ ['rook', 'e1', 0], ['knight', 'e6', 1]]
+
+
+ [['pawn', 'c8', 1], ['pawn', 'e8', 1], ['pawn', 'c8', 1], ['bishop', 'a8', 1], 
+ ['pawn', 'd1', 0], ['knight', 'e6', 1], ['bishop', 'b1', 0], ['rook', 'g7', 1],
+  ['rook', 'f1', 0], ['pawn', 'a2', 0]]
